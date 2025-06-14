@@ -1,0 +1,18 @@
+body {
+    padding: 20px;
+    font-family: Cursive;
+}
+
+li {
+    margin: 15px;
+}
+button{
+    margin-left: 20px;
+    background-color: rgb(234, 0, 255);
+}
+.attending{
+    colour: rgb(0, 217, 255)
+}
+.not-attending{
+    color: rgb(255, 0, 0)
+}

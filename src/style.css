@@ -1,6 +1,9 @@
 body {
     padding: 20px;
-    font-family: Cursive;
+    font-family: cursive;
+}
+h1{
+    justify-content: center;
 }
 
 li {
@@ -11,7 +14,7 @@ button{
     background-color: rgb(234, 0, 255);
 }
 .attending{
-    colour: rgb(0, 217, 255)
+    color: rgb(0, 217, 255)
 }
 .not-attending{
     color: rgb(255, 0, 0)
